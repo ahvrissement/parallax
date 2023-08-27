@@ -3,11 +3,7 @@
 
 <h1> Slide Parallax </h1>
 
-<div align="center">
-    <img src=image/ex.png alt="Exemplo" width=100%>
- <!-- <<a href="https://portfolio-d5wf.vercel.app/">
-  </a> -->
-</div>
+![parralax](https://github.com/ahvrissement/parallax/blob/main/parralax.gif)
 
 <p> Projeto de um site focado em slides para exposição no estilo parallax </p>
 <p> O tema foi escolhido foi a cidade de Belo Horizonte, porque convenhamos, nem é necessario explicação de tão foda BH é. </p>
